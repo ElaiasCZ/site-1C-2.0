@@ -4,7 +4,7 @@ html {
 }
 
 header {
-	background: rgb(128, 250, 155);
+	background: rgb(166, 72, 255);
 	height: 60PX;
 	padding: 20px 0;
 	width: 100%;
@@ -26,7 +26,7 @@ h4{
 #menu {
     width: 20%;
     height: 600px;
-    background-color: rgb(184, 127, 250);
+    background-color: rgb(125, 17, 248);
     float: left;
     margin-top: 10px;
 }
@@ -34,7 +34,7 @@ h4{
 #principal {
     width: 80%;
     height: 600px;
-    background-color:rgb(187, 224, 255);
+    background-color:rgb(196, 123, 255);
     float: left;
     margin-top: 10px;
     margin-bottom: 10px;
