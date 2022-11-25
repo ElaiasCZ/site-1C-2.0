@@ -4,7 +4,7 @@ html {
 }
 
 header {
-	background: rgb(43, 43, 43);
+	background: rgb(117, 117, 117);
 	height: 60PX;
 	padding: 20px 0;
 	width: 100%;
@@ -26,7 +26,7 @@ h4{
 #menu {
     width: 20%;
     height: 600px;
-    background-color: rgb(73, 73, 73);
+    background-color: rgb(148, 147, 147);
     float: left;
     margin-top: 20px;
 }
@@ -34,28 +34,38 @@ h4{
 #principal {
     width: 80%;
     height: 600px;
-    background-color:rgb(138, 138, 138);
+    background-color:rgb(206, 206, 206);
     float: left;
     margin-top: 20px;
     margin-bottom: 20px;
 }
 
-#exercicio1 {
+#BlueLobstersPhotos {
 	width: 50%;
     height: 600px;
     float: center;
+    background-color: rgb(133, 194, 248);
 }
-#exercicio1nocss {
+#RedLObstersPhotos {
 	
     width: 20%;
     height: 400px;
     float: center;
+    background-color: rgb(253, 124, 85);
 }
-#exercicio2nocss {
+#PurpleandPinkLobstersPhotos {
 	
     width: 15%;
     height: 400px;
     float: center;
+    background-color: rgb(229, 125, 255);
+}
+#YellowLobstersPhotos {
+	
+    width: 15%;
+    height: 400px;
+    float: center;
+    background-color: rgb(246, 255, 115);
 }
 p {
     text-align: center;
@@ -70,6 +80,6 @@ p {
 }
 
 section {
-    background-color:rgb(43, 43, 43);
+    background-color:rgb(117, 117, 117);
    
 }
