@@ -4,7 +4,7 @@ html {
 }
 
 header {
-	background: rgb(184, 102, 250);
+	background: rgb(43, 43, 43);
 	height: 60PX;
 	padding: 20px 0;
 	width: 100%;
@@ -26,7 +26,7 @@ h4{
 #menu {
     width: 20%;
     height: 600px;
-    background-color: rgb(186, 106, 252);
+    background-color: rgb(73, 73, 73);
     float: left;
     margin-top: 20px;
 }
@@ -34,7 +34,7 @@ h4{
 #principal {
     width: 80%;
     height: 600px;
-    background-color:rgb(239, 225, 250);
+    background-color:rgb(138, 138, 138);
     float: left;
     margin-top: 20px;
     margin-bottom: 20px;
@@ -43,22 +43,22 @@ h4{
 #exercicio1 {
 	width: 50%;
     height: 600px;
-    float: left;
+    float: center;
 }
 #exercicio1nocss {
 	
     width: 20%;
     height: 400px;
-    float: left;
+    float: center;
 }
 #exercicio2nocss {
 	
     width: 15%;
     height: 400px;
-    float: right;
+    float: center;
 }
 p {
-    text-align: left;
+    text-align: center;
     font-size: 20px;
 }
 
@@ -70,6 +70,6 @@ p {
 }
 
 section {
-    background-color:rgb(239, 225, 250);
+    background-color:rgb(43, 43, 43);
    
 }
